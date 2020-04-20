@@ -13,7 +13,7 @@ feature_text: >-
   Essa é a minha paixão, facilitar os infinitos processos através dos quais nossa totalidade maior tenta emergir, muitas vezes através de crises e sintomas difíceis de atravessar. Proponho-me a caminhar ao seu lado, dando suporte à compreensão e integração de sintomas e ao desabrochar da Vida na sua existência!
 
 
-  As principais abordagens que fazem parte do meu caminho são:
+  As principais abordagens que fazem parte do
 ---
 Cristina Arruda
 Psicóloga Clínica - CRP 01/7288
